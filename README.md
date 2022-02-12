@@ -10,6 +10,7 @@ _Node.js CORS reverse-proxy REST API gateway for all chains found in https://git
 - ***Caching*** - Keeps cached record of endpoints found in the chain-registry. 
 - ***Error handling*** If a chain's endpoint responds with an error, the proxy will update cached endpoints and/or try secondary endpoints. 
 
-## Potential ideas for later
+## Ideas for later
 - ***Monitoring*** - See which endpoints are not working, and alert maintainer 
 - ***Logging*** - Errors are logged 
+- ***Akash*** - docker compose & akash deploy
