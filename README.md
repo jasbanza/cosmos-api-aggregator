@@ -1,2 +1,2 @@
 # cosmos-api-aggregator
-aggregates rest api endpoints from https://github.com/cosmos/chain-registry
+node.js reverse-proxy api-gateway for rest endpoints found in https://github.com/cosmos/chain-registry
