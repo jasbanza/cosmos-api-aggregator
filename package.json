@@ -1,0 +1,28 @@
+{
+  "name": "cosmos-api-aggregator",
+  "version": "1.0.0",
+  "description": "Node.js CORS reverse-proxy REST API gateway for all chains found in https://github.com/cosmos/chain-registry",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasbanza/cosmos-api-aggregator.git"
+  },
+  "keywords": [
+    "api-gateway",
+    "reverse-proxy",
+    "cosmos"
+  ],
+  "author": "jasbanza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasbanza/cosmos-api-aggregator/issues"
+  },
+  "homepage": "https://github.com/jasbanza/cosmos-api-aggregator#readme"
+}

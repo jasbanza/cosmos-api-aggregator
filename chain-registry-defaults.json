@@ -1,0 +1,22 @@
+{
+  "cosmoshub": {
+    "pretty_name": "Cosmos Hub",
+    "bech32_prefix": "cosmos",
+    "apis": {
+      "rest": [{
+        "address": "https://lcd-cosmoshub.blockapsis.com/",
+        "provider": "chainapsis"
+      }]
+    }
+  },
+  "osmosis": {
+    "pretty_name": "Osmosis",
+    "bech32_prefix": "osmo",
+    "apis": {
+      "rest": [{
+        "address": "https://lcd-osmosis.blockapsis.com",
+        "provider": "chainapsis"
+      }]
+    }
+  }
+}
